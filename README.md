@@ -6,6 +6,7 @@ A tiny selfbot for my trolling needs
 pip install git+https://github.com/kramcat/CharacterAI.git
 
 **Install discord.py-self development version**
+
 $ git clone https://github.com/dolfies/discord.py-self
 $ cd discord.py-self
 $ python3 -m pip install -U .
