@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 from characterai import aiocai
 
-char = "QOcB3LTsF5g1Du1klaqMS6iBGF3wT-3ufDX7ozk22qM"
+char = "" # Your c.ai character
 
 with open('config.json', 'r') as file:
     config = json.loads(file.read())
