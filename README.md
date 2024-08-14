@@ -18,3 +18,7 @@ $ python3 -m pip install -U .
 **Run spark.py**
 
 It creates a config file for you with your c.ai and discord token
+
+# ToDo
+- [x] Ability to refresh the chat
+- [ ] Ability to change character id
